@@ -1,7 +1,7 @@
 {
   "name": "testing-npm-registry",
-  "version": "1.0.1",
-  "main": "index.js",
+  "version": "1.0.2",
+  "main": "dist/hedley.js",
   "repository": "git@github.com:hedleygois/testing-npm-registry.git",
   "author": "Hedley Luna",
   "license": "MIT",
