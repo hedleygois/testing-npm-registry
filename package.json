@@ -22,6 +22,6 @@
     "react-dom": "^16.13.1"
   },
   "scripts": {
-    "build": "rm -rf build/ && webpack --mode production"
+    "build": "rm -rf build/ && webpack --mode production && cp package.json dist/"
   }
 }
